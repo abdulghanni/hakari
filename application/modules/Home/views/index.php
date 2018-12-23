@@ -112,15 +112,20 @@
 
         <!-- protfolio-area start-->
         <div class="amazing-portfolio-area pt-80">
-            <div class="container">
+                <div class="container">
+                    <div class="section-title text-center secton-title-2 uppercase roboto">
+                    <h1>Our <span> Product</span></h1>
+                </div>
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-12">
                         <ul class="filter-catagory-menu menu-eff text-center">
                             <li class="filter" data-filter="all"><a>Show All</a></li>
-                            <li class="filter" data-filter=".fashion"><a>Fashoin</a></li>
-                            <li class="filter" data-filter=".photography"><a>Photography</a></li>
-                            <li class="filter" data-filter=".suncity"><a>Sun City</a></li>
-                            <li class="filter" data-filter=".artglass"><a>Art Glass</a></li>
+                            <li class="filter" data-filter=".fashion"><a>Electronics</a></li>
+                            <li class="filter" data-filter=".photography"><a>Electrical</a></li>
+                            <li class="filter" data-filter=".suncity"><a>Safety</a></li>
+                            <li class="filter" data-filter=".artglass"><a>Waste Bin</a></li>
+                            <li class="filter" data-filter=".artglass"><a>Sports & outdoor Equipment</a></li>
+                            <li class="filter" data-filter=".artglass"><a>Office Supplies</a></li>
                         </ul>
                     </div>
                 </div>
@@ -128,7 +133,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix fashion">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a1.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a1.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Vestibulum gravida</h3>
@@ -143,7 +148,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix photography">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a2.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a2.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -157,7 +162,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix suncity ">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a3.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a3.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Vestibulum gravida</h3>
@@ -172,7 +177,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix artglass">
                         <div class="amazing-work-single aws-2 ">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a4.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a4.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -186,7 +191,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix fashion">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a5.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a5.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -200,7 +205,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix fashion">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a6.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a6.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Vestibulum gravida</h3>
@@ -215,7 +220,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix photography">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a7.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a7.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -229,7 +234,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix suncity ">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a8.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a8.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Vestibulum gravida</h3>
@@ -244,7 +249,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix artglass">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a1.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a1.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -258,7 +263,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix fashion">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a2.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a2.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -272,7 +277,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix photography">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a4.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a4.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Gravida Vestibulum </h3>
@@ -286,7 +291,7 @@
                     <div class="col-lg-4 col-md-4 col-12 mix suncity ">
                         <div class="amazing-work-single aws-2">
                             <div class="amazing-img def-hover-eff">
-                                <a href="#"><img src="images/product/a5.jpg" alt=""></a>
+                                <a href="#"><img src="<?=base_url()?>frontend/assets/images/product/a5.jpg" alt=""></a>
                             </div>
                             <div class="amazing-content white-cont">
                                 <h3 class="railway uppercase animated">Vestibulum gravida</h3>

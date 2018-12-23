@@ -47,11 +47,11 @@
                             <div class="phone-mail-area">
                                 <div class="contact-number text-white f-left">
                                     <i class="icon-call-in"></i>
-                                    900-234-565-379
+                                    (021) 123 456 789
                                 </div>
                                 <div class="contact-email text-white f-left hidden-xs">
                                     <i class="fa fa-envelope-o"></i>
-                                    Contact@yourbusiness.net
+                                    contact@pthakari.com
                                 </div>
                             </div>
                         </div>
@@ -62,16 +62,16 @@
                 <div class="container">
                     <div class="full-width-mega-dropdown">
                         <div class="row align-items-center">
-                            <div class="col-lg-2 col-md-3 col">
-                                <div class="logo ptb-20"><a href="index.html"> <img height="40px" src="<?=base_url()?>frontend/assets/images/logo/logo.png" alt="main logo"></a></div>
+                            <div class="col-lg-3 col-md-4 col">
+                                <div class="logo ptb-20"><a href="index.html"> <img src="<?=base_url()?>frontend/assets/images/logo/logo.png" alt="main logo"></a></div>
                             </div>
-                            <div class="col-lg-10 col-md-9 col">
+                            <div class="col-lg-9 col-md-8 col">
                                 <nav id="primary-menu">
                                     <ul class="main-menu menu-eff text-right">
-                                        <li><a class="active" href="index.html">Home</a></li>
-                                        <li class="mega-parent"><a href="shop.html">Product</a></li>
-                                        <li class="mega-parent"><a href="blog.html">About</a></li>
-                                        <li class="mega-parent"><a href="index-2.html">Contact</a></li>
+                                        <li><a class="active" href="<?=base_url()?>">Home</a></li>
+                                        <li class="mega-parent"><a href="<?=base_url('Product')?>">Product</a></li>
+                                        <li class="mega-parent"><a href="<?=base_url('About')?>">About</a></li>
+                                        <li class="mega-parent"><a href="<?=base_url('Contact')?>">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>

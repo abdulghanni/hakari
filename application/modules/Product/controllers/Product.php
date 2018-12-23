@@ -10,7 +10,7 @@ class Product extends MX_Controller {
     {
         parent::__construct();
         $this->load->database();
-        $this->load->model('Produk_model', 'main');
+        $this->load->model('Product_model', 'main');
     }
 
     public function index()

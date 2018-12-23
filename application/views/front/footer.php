@@ -1,3 +1,23 @@
+<!--call-to-action-area start-->
+        <div class="cll-to-action-area  black-bg ptb-50">
+            <div class="container">
+                <div class="row action-box">
+                    <div class="col-xl-8 col-lg-8 col-12 text-left">
+                        <div class="section-title cta-title roboto">
+                            <h1>For Everything <span>you </span>need call<span> PT. HIB</span></h1>
+                        </div>
+                    </div>
+                    <!-- <div class="col-xl-4 col-lg-4 col-12 text-right action-box-button">
+                        <a href="#" class="deff-btn uppercase">
+                            <span>Purchase Now</span>
+                        </a>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <!--call-to-action-area end-->
+
+
 <!--footer area are start-->
         <div class="footer pt-80 pb-45">
             <div class="footer-main">
@@ -9,9 +29,9 @@
                             </div>
                             <!-- end logo_footer -->
                             <div class="widget widget_about_us">
-                                <p class="address">198 North 39th Street, Suite 836 NY 8362-1800</p>
-                                <p class="phone">Phone: (030) 333 456 789 - 686</p>
-                                <p class="email">Email: <a href="#">Infor@wright.com</a></p>
+                                <p class="address">Jalan Abcd No 123</p>
+                                <p class="phone">Phone: (021) 123 456 789</p>
+                                <p class="email">Email: <a href="#">contact@pthakari.com</a></p>
                             </div>
                             <!-- end about_us -->
                             <div class="widget widget-social">
@@ -50,61 +70,18 @@
                         </div>
                         <div class="col-lg-3 col-xl-3 col-md-6 col-12 footer-col">
                             <div class="widget widget_latest_tweet">
-                                <h3 class="widget-title">Latest tweet</h3>
+                                <h3 class="widget-title">Footer</h3>
                                 <div class="latest-tweets">
-                                    <ul>
-                                        <li>
-                                            <p class="tweet-text">wright | Multipurpose Business Agency HTML Template
-                                                <a   href="#">goo.gl/JrLd4m</li> <a   href="#">pic.twitter.com/BUtj8woDGq</a></p>
-                                            <p class="tweet-details hidden-md">
-                                                <a   href="#">
-                                                    <time datetime="2018-06-24 23:58:32+0000">June 24, 2018 11:58 pm</time>
-                                                </a>
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <p class="tweet-text">Bachas Responsive WordPress Theme for your online
-                                                store here, purchase now <a   href="#">goo.gl/wl9zDA</a>
-                                                <a   href="#">pic.twitter.com/kS7BSkiOUS</a></p>
-                                            <p class="tweet-details hidden-md">
-                                                <a   href="#">
-                                                    <time datetime="2018-06-03 12:03:48+0000">June 3, 2018 12:03 pm</time>
-                                                </a>
-                                            </p>
-                                        </li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                         </div>
                         <!-- end latest_tweet -->
                         <div class="col-lg-3 col-xl-3 col-md-6 col-12 footer-col">
                             <div class="widget widget_instagram_feed">
-                                <h3 class="widget-title">Photo Stream</h3>
+                                <h3 class="widget-title">Photo</h3>
                                 <div class="inst-photo-container">
-                                    <ul class="inst-photo">
-                                        <li>
-                                            <a href="#"><img src="images/gallery/01.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/gallery/02.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/gallery/03.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/gallery/04.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/gallery/05.jpg" alt=""></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><img src="images/gallery/06.jpg" alt=""></a>
-                                        </li>
-                                    </ul>
-                                    <div class="ins-follow-btn">
-                                        <a   href="#">
-                                            <i class="fa fa-instagram"></i>Follow on Instagram</a>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -124,28 +101,13 @@
                             <div class="global-table">
                                 <div class="global-row">
                                     <div class="global-cell">
-                                        Copyright @2018 by <a href="#">wright</a>
+                                        Copyright @2018 by <a href="#">PT> Hakari Indo Buana</a>
                                         All right reserved.</div>
                                 </div>
                             </div>
                         </div>
                         <!-- end copyright -->
                     </div>
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                        <div class="payment-icons">
-                            <div class="global-table">
-                                <div class="global-row">
-                                    <div class="global-cell">
-                                        <a href="#"><img alt="payment-icon" src="images/icons/payment-icon.png"> </a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <!-- end payment_icons -->
-                    </div>
-
                 </div>
             </div>
         </div>
