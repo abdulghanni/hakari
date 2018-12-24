@@ -11,7 +11,7 @@
       <div class="page-login-main">
         <div class="brand hidden-md-up">
           <img class="brand-img" src="../assets/images/logo-colored%402x.png" alt="...">
-          <h3 class="brand-text font-size-40">GUT</h3>
+          <h3 class="brand-text font-size-40">PT. Hakari Indo Buana</h3>
         </div>
         <h3 class="font-size-24">Sign In</h3>
 
@@ -29,7 +29,7 @@
         </form>
 
         <footer class="page-copyright">
-          <p>© PT. GRAHA UTAMA TIMBER 2018. All RIGHT RESERVED.</p>
+          <p>© PT. Hakari Indo Buana 2018. All RIGHT RESERVED.</p>
         </footer>
       </div>
 

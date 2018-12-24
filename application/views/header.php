@@ -13,7 +13,7 @@
       </button>
       <div class="navbar-brand navbar-brand-center">
         <span><i class="icon md-view-list"></i></span>
-        <span class="navbar-brand-text hidden-xs-down"> GUT ADMIN</span>
+        <span class="navbar-brand-text hidden-xs-down"> HIB ADMIN</span>
       </div>
       <button type="button" class="navbar-toggler collapsed" data-target="#site-navbar-search"
         data-toggle="collapse">
@@ -44,7 +44,7 @@
             <a class="nav-link navbar-avatar" data-toggle="dropdown" href="#" aria-expanded="false"
               data-animation="scale-up" role="button">
               <span class="avatar avatar-online">
-                <img src="https://www.instituteofphotography.in/wp-content/uploads/2015/05/dummy-profile-pic-300x300.jpg" alt="...">
+                <img src="<?=assets_url('images/dummy-pic.jpg')?>" alt="...">
                 <i></i>
               </span>
             </a>
